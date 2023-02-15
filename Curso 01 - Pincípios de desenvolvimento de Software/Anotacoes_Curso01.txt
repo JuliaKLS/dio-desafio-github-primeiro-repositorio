@@ -1,5 +1,4 @@
 Curso 01: Cumprido e certificados emitidos
-	
 	-Introdução à Programação e Pensamento Computacional;
 	-Trabalhando em equipes ágeis;
 	-Introdução ao Git e ao GitHub;

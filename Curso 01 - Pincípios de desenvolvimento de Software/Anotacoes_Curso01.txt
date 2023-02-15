@@ -1,1 +1,7 @@
-Fazer o repositório para hospedar os desafios 
+Curso 01: Cumprido e certificados emitidos
+	
+	-Introdução à Programação e Pensamento Computacional;
+	-Trabalhando em equipes ágeis;
+	-Introdução ao Git e ao GitHub;
+	-Como Entregar seu Desafio de Projeto;
+	-Criando seu primeiro Repositório no GitHub para compartilhar seu progresso;

@@ -1,1 +1,7 @@
-rascunho : testando os conhecimentos do git e github 06
+Curso 02: Cumprido e certificados emitidos
+	-Domiado IDES java;
+	-Aprendedo a sitaxe Java;
+	-Lógica condicional e Controle de Fluxos em Java;
+	-Estruturas de repetição e Arrays em java;
+	-Estrutura de dados e java;
+	-Entendendo métodos java. 

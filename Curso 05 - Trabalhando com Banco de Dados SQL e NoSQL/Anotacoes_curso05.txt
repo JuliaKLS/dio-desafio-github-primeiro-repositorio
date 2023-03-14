@@ -1,1 +1,4 @@
-rascunho : testando os conhecimentos do git e github 09
+Curso 05: Trabalhando com BD SQL e NoSQL
+	- Primeiros passos com SQL;
+	- Introdução ap MOngoDB e BD NoSQL;
+	- Boas práticas com DynamoDB.

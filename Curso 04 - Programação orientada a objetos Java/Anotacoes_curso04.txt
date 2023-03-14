@@ -1,1 +1,8 @@
-rascunho : testando os conhecimentos do git e github 08
+Curso 04: Programação orientada a objetos com Java
+	- Programação orientada a objetos com Java;
+	- Trabalhando com Collection Java;
+	- Debugging Java;
+	- Tratamento de Exceções em Java;
+	- Gerenciamento de dependências e Biul em java com maven;
+	- Testes Unitários com Junit;
+	- Abstraindo o bootcamp usando OO em java.

@@ -1,1 +1,6 @@
-rascunho : testando os conhecimentos do git e github 07
+Curso 03: Dominando algoritmos básicos com Desafios de código Java
+	-Desafio: fábrica de carros;
+	-Desafio: Imprimindo Positivos e média;
+	-Desafio: Soma de H com N termos;
+	-Desafio: Dragão;
+	-Desafio: fibinacci fácil;
